@@ -102,7 +102,7 @@ npm start
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Micronaut JUAN DAVID DIAZ**
+👤 **Micronaut Betel Andarge**
 
 - GitHub: [@beteland123](https://github.com/beteland123)
 - Twitter: [@betelandarge](https://twitter.com/BetelAndarge)
